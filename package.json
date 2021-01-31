@@ -1,0 +1,26 @@
+{
+  "name": "book-compojs",
+  "version": "3.5.3",
+  "description": "Учебник по CompoJS",
+  "main": "compo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compo-js/components.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "components",
+    "reactive",
+    "book"
+  ],
+  "author": "http://www.compojs.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compo-js/components/issues"
+  },
+  "homepage": "https://github.com/compo-js/components#readme"
+}
