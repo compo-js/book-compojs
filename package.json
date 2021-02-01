@@ -1,6 +1,6 @@
 {
   "name": "book-compojs",
-  "version": "3.5.3",
+  "version": "3.5.4",
   "description": "Учебник по CompoJS",
   "main": "compo.js",
   "scripts": {
