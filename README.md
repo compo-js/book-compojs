@@ -1,7 +1,6 @@
 # Учебник по CompoJS
 
 - **[compojs.ru](http://www.compojs.ru)**
-- **[https://vk.com/compojs](https://vk.com/compojs)**
 - **[compo.js@mail.ru](mailto:compo.js@mail.ru)**
 
 ![components](logo.png)
